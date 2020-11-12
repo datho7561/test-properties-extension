@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: removevalidation Test Fragment
+Bundle-SymbolicName: removevalidation.test
+Bundle-Version: 1.0.0
+Fragment-Host: removevalidation.core;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.jdt.junit4.runtime,
+ org.junit;bundle-version="4.12"
+Export-Package: org.eclipse.lsp4mp.jdt.internal.core

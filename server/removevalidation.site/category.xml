@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+  <bundle
+      id="removevalidation.core"
+      version="0.0.0">
+    <category name="core" />
+  </bundle>
+  <bundle
+      id="removevalidation.test"
+      version="0.0.0">
+    <category name="sdk" />
+  </bundle>
+  <bundle
+      id="removevalidation.core.source"
+      version="0.0.0">
+    <category name="sdk" />
+  </bundle>
+  <bundle
+      id="removevalidation.test.source"
+      version="0.0.0">
+    <category name="sdk" />
+  </bundle>
+  <category-def
+      name="core"
+      label="removevalidation extension" />
+  <category-def
+      name="sdk"
+      label="removevalidation extension (Developer Resources)" />
+</site>
